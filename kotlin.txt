@@ -1,0 +1,3 @@
+<echo "Nombre: {maira fernanda luna}Correo: {mairaferlunaluna@gmail.com}" > kotlin.txt
+<echo "Nombre: {Jakeline Triana} Correo: {jakietriana20@hotmail.com}" > kotlin.txt
+<echo "Nombre: {Claudia Caro} Correo: {claudiacornare@gmail.com}" > kotlin.txt
