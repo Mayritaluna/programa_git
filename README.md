@@ -1,1 +1,1 @@
-<echo Este es mi primer commit > README.md
+<echo Este es mi primer commit> README.md
